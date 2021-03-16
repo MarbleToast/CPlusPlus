@@ -11,4 +11,5 @@ int main() {
     std::cout << " is ";
     std::cout << a*b;
     std::cout << std::endl;
+    return 0;
 }

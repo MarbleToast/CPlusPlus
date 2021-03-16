@@ -1,0 +1,1 @@
+g++ -std=c++11 -pedantic -o ordering Customer.cpp CustomerList.cpp Invoice.cpp main.cpp

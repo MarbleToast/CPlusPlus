@@ -7,4 +7,5 @@ int main() {
         c++;
     }
     std::cout << a << std::endl;
+    return 0;
 }

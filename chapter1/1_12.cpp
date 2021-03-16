@@ -8,4 +8,5 @@ int main() {
     std::cout << sum << std::endl;
 
     // Outputs 0; adds -100 through 100, which cancels out.
+    return 0;
 }

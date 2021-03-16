@@ -7,4 +7,5 @@ int main() {
 
     // This final statement will not compile.
     // std::cout << /* "*/" */;
+    return 0;
 }

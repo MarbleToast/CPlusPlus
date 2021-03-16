@@ -5,4 +5,5 @@ int main() {
     std::cout << "Enter two numbers to see their product:" << std::endl;
     std::cin >> a >> b;
     std::cout << "The product of " << a << " and " << b << " is " << a*b << std::endl;
+    return 0;
 }

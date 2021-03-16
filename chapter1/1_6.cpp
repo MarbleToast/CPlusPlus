@@ -16,4 +16,5 @@ int main() {
                 << " and " << y
                 << " is " << x+y 
                 << std::endl;
+    return 0;
 }

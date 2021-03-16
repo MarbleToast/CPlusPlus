@@ -7,4 +7,5 @@ int main() {
     while (a <= b) {
         std::cout << a++ << std::endl;
     }
+    return 0;
 }
